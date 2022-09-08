@@ -1,0 +1,31 @@
+div{
+    /* background: tomato; */
+    width: 300px;
+    padding: 20px;
+    display: inline-block;
+
+}
+
+/* selection by class  */
+.firstdiv { 
+    background: tomato;
+}
+
+
+/* selection by id */
+#seconddiv {
+    background: #8BAFEF;
+}
+
+.thirddiv {
+    background: #D556AD;
+}
+
+.parentdiv {
+    /* background: black; */
+    display: block;
+    width: 90%;
+    /* height: 200px; */
+    margin: 0 auto;
+    text-align: center;
+}
